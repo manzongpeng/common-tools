@@ -29,7 +29,7 @@
         <hutool-all.version>4.5.0</hutool-all.version>
         <springfox-swagger2.version>2.6.1</springfox-swagger2.version>
         <springfox-swagger-ui.version>2.6.1</springfox-swagger-ui.version>
-        <jfinal-version>4.8</jfinal-version>
+        <jfinal-version>4.9.11</jfinal-version>
     </properties>
 
     <dependencies>
